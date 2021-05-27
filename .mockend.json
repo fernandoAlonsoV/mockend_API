@@ -1,0 +1,36 @@
+{
+    "courses":[
+        {
+            "id": 1,
+            "name": "Chizuru Mizuhara",
+            "image": "https://i.pinimg.com/736x/42/7b/34/427b34e33ef3e9f93038d584cc4c4095.jpg", 
+            "price": "60",
+            "company_name": "Kanojo Okarishimasu",
+            "company_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Kanojo%2C_Okarishimasu_logo.svg/1280px-Kanojo%2C_Okarishimasu_logo.svg.png"
+        },
+        {
+            "id": 2,
+            "name": "Mami Nanami",
+            "image": "https://wallpapercave.com/wp/wp7593950.jpg", 
+            "price": "30",
+            "company_name": "Kanojo Okarishimasu",
+            "company_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Kanojo%2C_Okarishimasu_logo.svg/1280px-Kanojo%2C_Okarishimasu_logo.svg.png"
+        },
+        {
+            "id": 3,
+            "name": "Ruka Sarashina",
+            "image": "https://www.news24hd.com/thumb/22/4/7/6/4768121365b2d9af6372092c5f2293a4.jpg", 
+            "price": "40",
+            "company_name": "Kanojo Okarishimasu",
+            "company_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Kanojo%2C_Okarishimasu_logo.svg/1280px-Kanojo%2C_Okarishimasu_logo.svg.png"
+        },
+        {
+            "id": 4,
+            "name": "Sumi Sakurasawa",
+            "image": "https://i.pinimg.com/originals/f0/e1/fb/f0e1fbbbff1d3b1be91d0e0973695875.jpg", 
+            "price": "30",
+            "company_name": "Kanojo Okarishimasu",
+            "company_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Kanojo%2C_Okarishimasu_logo.svg/1280px-Kanojo%2C_Okarishimasu_logo.svg.png"
+        },        
+    ]
+}
